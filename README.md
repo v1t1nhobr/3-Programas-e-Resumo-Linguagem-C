@@ -1,6 +1,7 @@
 # Resumo da Aula 11/03 
 
  Essa foi a que deu inicio ao Curso de Programação em Linguagem C. 
+ 
  Nela foram abordados temas de introdução e conceitos básicos da área como a Organização básica de um computador que envolve Processador, Memoria Principal, Memoria Secundaria, dispositivos de entrada e saída, o que são bits e bytes e assim por diante.
  Entendemos o que é um compilador, a Sintaxe e a Semântica e vimos o que eram Algoritmos, IDE etc.
  Também foi abordado entendimento das funções iniciais da Linguagem C como Tipos de Dados, Declaração de Variáveis, Operadores de Atribuição, Inicialização de Variáveis e assim por diante que são necessários para programar em C.
